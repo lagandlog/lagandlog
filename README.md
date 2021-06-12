@@ -1,4 +1,4 @@
-<img src='https://i.imgur.com/Gll53l4.jpg' />
+<img src='https://i.imgur.com/wDRKW9x.jpg' />
 
 # Grow yourself by writing.
 [lagandlog.com](https://lagandlog.com)
