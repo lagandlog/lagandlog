@@ -1,6 +1,7 @@
 <img src='https://i.imgur.com/Gll53l4.jpg' />
 
 # Grow yourself by writing.
+[lagandlog.com](https://lagandlog.com)
 
 ## Our idea is to spread knowledge to the curious minds on internet and to shape up your growth exponentially.
 
@@ -20,4 +21,5 @@
 
 - Completely free to use.
 
-Website - [Lag and Log](https://lagandlog.com)
+
+Visit Website - [lagandlog.com](https://lagandlog.com)
